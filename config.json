@@ -1,0 +1,15 @@
+{
+    "ca_provider": "letsencrypt",
+    "email": "m.kosuri@f5.com",
+    "common_name": "example.com",
+    "org_unit": "IT",
+    "state": "CA",
+    "country_code": "US",
+    "key_type": "rsa",
+    "key_bits": 4096,
+    "renew_certificate": true,
+    "dns_provider": "",
+    "dns_api_key": "",
+    "renew_interval_days": 7
+  }
+  
